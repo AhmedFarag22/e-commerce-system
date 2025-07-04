@@ -39,28 +39,6 @@ This project simulates an **online checkout system** with support for:
 - `Main`: Entry point for the test/demo.
 
 
-Sample Output
-text
-Copy
-Edit
-** Shipment notice **
-Cheese
-200.0g
-Cheese
-200.0g
-Biscuits
-700.0g
-Total package weight 1.1kg
-** Checkout receipt **
-2x Cheese        200.00
-1x Biscuits      150.00
-1x Scratch Card  50.00
-----------------------
-Subtotal         400.00
-Shipping         30.00
-Amount           430.00
-Remaining Balance        570.00
-
 
 
 
